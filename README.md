@@ -2,6 +2,11 @@
 
 A real-time vision detection pipeline designed for football (soccer) analytics. This repository utilizes the state-of-the-art **YOLO26** model family to detect players and the football in match images.
 
+<p align="center">
+  <img src="save.jpeg" alt="Original Image" width="49%" />
+  <img src="save_prediction.jpg" alt="YOLO26 Player Detection" width="49%" />
+</p>
+
 ---
 
 ## 🚀 Why YOLO26?
