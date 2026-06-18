@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch/YOLO weights and datasets
+*.pt
+*.zip
+Football-Player-Detection.v1i.yolo26/
+football_player_detection/
+runs/
+
+# IDE/Editor settings
+.vscode/
+.idea/
+.kilocode/
